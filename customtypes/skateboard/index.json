@@ -1,0 +1,17 @@
+{
+  "format": "custom",
+  "id": "skateboard",
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "UID"
+        }
+      }
+    }
+  },
+  "label": "Skateboard",
+  "repeatable": true,
+  "status": true
+}
