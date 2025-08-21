@@ -42,7 +42,17 @@
                   "label": "skateboard",
                   "select": "document",
                   "repeat": false,
-                  "customtypes": []
+                  "customtypes": [
+                    {
+                      "id": "skateboard",
+                      "fields": [
+                        "name",
+                        "image",
+                        "price",
+                        "customizer_link"
+                      ]
+                    }
+                  ]
                 }
               }
             }
